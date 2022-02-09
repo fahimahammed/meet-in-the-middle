@@ -13,5 +13,8 @@ We divide the set into two sets [0…N/2] and [(N/2 + 1)…(N-1)] and generate a
 - Binary search here helps in reducing complexity from 2nto 2n/2log(2n/2)which is equivalent to 2n/2n.
 - Thus our final running time is O(2n/2n).
 
+<br/><br/>
+<a href="https://www.geeksforgeeks.org/meet-in-the-middle/">Learn More</a>
+
 
 
