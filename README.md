@@ -1,4 +1,4 @@
-# meet-in-the-middle
+# MEET IN THE MIDDLE
 
 This basically reduces time complexity from O(2N) to O(2N/2) .
 
