@@ -14,7 +14,7 @@ We divide the set into two sets [0…N/2] and [(N/2 + 1)…(N-1)] and generate a
 - Thus our final running time is O(2n/2n).
 
 <br/><br/>
-<a href="https://www.geeksforgeeks.org/meet-in-the-middle/">Learn More</a>
+<a href="https://www.geeksforgeeks.org/meet-in-the-middle/">Source</a>
 
 
 
